@@ -1,6 +1,7 @@
-body {
+*{
 	transition:all 1s;
 	background-color: #F7FCFE;	
+	box-sizing:border-box;
 }
 .name{
 	text-align:center;
