@@ -85,9 +85,16 @@
     padding: 0px 50px;
     list-style: none;
 }
-.arubaito li{
+.arubaito h4{
 	letter-spacing: 5px;
     font-size: 15px;
+    color: black;
+    padding: 20px 50px;
+    list-style: none;
+}
+.arubaito p{
+	letter-spacing: 5px;
+    font-size: 10px;
     color: black;
     padding: 20px 50px;
     list-style: none;
