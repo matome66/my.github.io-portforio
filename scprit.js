@@ -1,5 +1,5 @@
 jQuery(function ($){
-  $(".anser").css("display","none");
+  $(".answer").css("display","none");
   $(".question").click(function () {
 $(".question").not(this).removeClass("open");
 $(".question").not(this).next().slideUp(300);
