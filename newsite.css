@@ -2,37 +2,35 @@ body {
 	background-color: #F7FCFE;	
 }
 .name{
+	letter-spacing: 4px;
     background-color: aquamarine;
     font-size: 50px;
     color: black;
 }
 .mokuj p{
+	letter-spacing: 10px;
     font-size: 30px;
     color: black;
 }
 .mokuj li{
+	letter-spacing: 2px;
     font-size: 25px;
     color: black;
     padding: 0px 50px;
     list-style: none;
 }
 .syussin {
+	letter-spacing: 3px;
     list-style: none;
     font-size: 30px;
     padding: 20px;
 }
 .syumi {
+	letter-spacing: 2px;
     font-size: 25px;
     color: black;
     padding: 0px 50px;
     list-style: none;
-}
-.syumi {
-    font-size: 25px;
-    color: black;
-    padding: 0px 50px;
-    list-style: none;
-    
 }
 .syumi p2 {
     font-size: 25px;
@@ -43,12 +41,14 @@ body {
 	white-space: pre ;
 }
 .syumi p {
+	letter-spacing: 5px;
     font-size: 20px;
     color: black;
     padding: 10px 30px;
     list-style: none;
 }
 .syumi li {
+	letter-spacing: 5px;
     font-size: 15px;
     color: black;
     padding: 15px 50px;
@@ -67,12 +67,14 @@ body {
     list-style: none;
 }
 .arubaito {
+	letter-spacing: 5px;
     font-size: 25px;
     color: black;
     padding: 0px 50px;
     list-style: none;
 }
 .arubaito li{
+	letter-spacing: 5px;
     font-size: 15px;
     color: black;
     padding: 20px 50px;
