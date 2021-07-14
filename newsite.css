@@ -20,7 +20,7 @@ body {
     list-style: none;
 }
 .mokuj li:hover{
-	color: red;
+	background-color: red;
 }
 .syussin {
 	letter-spacing: 3px;
@@ -84,6 +84,6 @@ body {
     list-style: none;
 }
 p a:hover{
-	color: red;
+	background-color: red;
 }
 
