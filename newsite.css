@@ -88,11 +88,11 @@ body {
 }
 .youtube{
 	font-size: 15px;
-	text-align:right;
+	text-align:center;
 }
 .youtube:hover{
-	background-color:red;
+	background-color:blue;
 }
 .fa-youtube{
-	color:blue;
+	color:red;
 }
