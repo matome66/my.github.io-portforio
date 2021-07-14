@@ -1,3 +1,3 @@
 $('fa-youtube').animate({
-  'font-size':'100px'
+  'font-size':'400px'
 },1000);
