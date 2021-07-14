@@ -97,6 +97,10 @@
 	font-size: 15px;
 	text-align:center;
 }
+.youtube p{
+	width:100%
+	background-color:red;
+}
 .fa-youtube{
 	color:red;
 }
