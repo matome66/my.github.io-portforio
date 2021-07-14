@@ -1,8 +1,11 @@
 body {
+	transition:all 1s;
 	background-color: #F7FCFE;	
 }
 .name{
-	letter-spacing: 4px;
+	text-align:center;
+	border-radius:10px;
+	letter-spacing: 10px;
     background-color: aquamarine;
     font-size: 50px;
     color: black;
@@ -83,7 +86,10 @@ body {
     padding: 20px 50px;
     list-style: none;
 }
-p3:hover{
-	background-color: red;
+.youtube{
+	font-size: 15px;
+	text-align:right;
 }
-
+.youtube:hover{
+	background-color:red;
+}
