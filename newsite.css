@@ -1,0 +1,77 @@
+.name{
+    background-color: aquamarine;
+    font-size: 50px;
+    color: black;
+}
+.mokuj p{
+    font-size: 30px;
+    color: black;
+}
+.mokuj li{
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.syussin {
+    list-style: none;
+    font-size: 30px;
+    padding: 20px;
+}
+.syumi {
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.syumi {
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+    
+}
+.syumi p2 {
+    font-size: 25px;
+    color: black;
+    padding: 10px 30px;
+    list-style: none;
+    content: "\A" ;
+	white-space: pre ;
+}
+.syumi p {
+    font-size: 20px;
+    color: black;
+    padding: 10px 30px;
+    list-style: none;
+}
+.syumi li {
+    font-size: 15px;
+    color: black;
+    padding: 15px 50px;
+    list-style: none;
+}
+.yaritai {
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.yaritai li{
+    font-size: 15px;
+    color: black;
+    padding: 20px 50px;
+    list-style: none;
+}
+.arubaito {
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.arubaito li{
+    font-size: 15px;
+    color: black;
+    padding: 20px 50px;
+    list-style: none;
+}
